@@ -1,7 +1,7 @@
 dictionary = { 
   "cat" : "small animal",
   "dark" : "no light"  ,
-  "money" : "valuble item used for trading ",
+  "money" : "valuable item used for trading ",
   "integer":[1,2,3]
 }
 l = len(dictionary)
